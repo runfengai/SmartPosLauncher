@@ -1,0 +1,2 @@
+include ':app', ':DroidPlugin'
+project(':DroidPlugin').projectDir = new File('libraries/DroidPlugin')
